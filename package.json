@@ -1,0 +1,27 @@
+{
+  "name": "ember-ash-vscode-theme",
+  "publisher": "robin-weiss",
+  "displayName": "Ember & Ash Theme",
+  "description": "Bring the stillness of a midnight campfire to your editor. Ember & Ash blends soft salmon tones with slate-grey shadows to create a distraction-free environment. Inspired by glowing coals and cooling ash, this theme is perfect for late-night developers who value aesthetics and deep focus in equal measure.",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/weissrobin/ember-ash-vscode-theme"
+  },
+  "icon": "icon.png",
+  "engines": {
+    "vscode": "^1.109.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Ember & Ash Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Ember & Ash Theme-color-theme.json"
+      }
+    ]
+  }
+}

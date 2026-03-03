@@ -1,2 +1,11 @@
-# ember-ash-vscode-theme
-Bring the stillness of a midnight campfire to your editor. Ember &amp; Ash blends soft salmon tones with slate-grey shadows to create a distraction-free environment. Inspired by glowing coals and cooling ash, this theme is perfect for late-night developers who value aesthetics and deep focus in equal measure.
+# Ember & Ash
+
+A minimalist dark theme for VS Code inspired by glowing embers and cooling ash. 
+
+## Features
+- **Ember Accents:** Warm salmon tones for functions and strings.
+- **Ashen Background:** Deep slate grey background to reduce eye strain.
+- **Sage Comments:** Muted green-grey comments for a natural, non-distracting look.
+
+## Preview
+![Screenshot](assets/screenshot.png)
