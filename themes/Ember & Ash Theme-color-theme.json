@@ -32,7 +32,9 @@
     "terminal.ansiBrightBlue": "#7391b1",
     "terminal.ansiBrightMagenta": "#bda5bb",
     "terminal.ansiBrightCyan": "#c5d2de",
-    "terminal.ansiBrightWhite": "#e7e7ff"
+    "terminal.ansiBrightWhite": "#e7e7ff",
+    "activityBar.background": "#1d1f20",
+    "menu.selectionBackground": "#bb3e00",
   },
   "tokenColors": [
     {
@@ -97,7 +99,9 @@
         "entity.name.function",
         "support.function",
         "entity.name.type.class",
-        "entity.name.type.interface"
+        "entity.name.type.interface",
+        "punctuation.definition.heading.markdown",
+        "entity.name.section.markdown"
       ],
       "settings": {
         "foreground": "#e78b96"
