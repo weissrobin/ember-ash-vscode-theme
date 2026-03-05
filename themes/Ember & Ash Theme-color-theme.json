@@ -53,6 +53,16 @@
       }
     },
     {
+      "name": "JSX Attribute Functions",
+      "scope": [
+        "meta.tag.attributes.js.jsx variable.other.readwrite",
+        "meta.tag.attributes.js.jsx variable"
+      ],
+      "settings": {
+        "foreground": "#e78b96"
+      }
+    },
+    {
       "name": "Variables & Attributes",
       "scope": [
         "variable",
