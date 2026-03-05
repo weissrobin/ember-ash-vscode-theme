@@ -35,6 +35,9 @@
     "terminal.ansiBrightWhite": "#e7e7ff",
     "activityBar.background": "#1d1f20",
     "menu.selectionBackground": "#bb3e00",
+    "activityBar.activeBorder": "#f4b89b",
+    "activityBar.foreground": "#f4b89b",
+    "activityBar.inactiveForeground": "#ffffff66"
   },
   "tokenColors": [
     {
@@ -65,7 +68,6 @@
       "name": "Support Variables & Classes",
       "scope": [
         "support.variable",
-        "support.class"
       ],
       "settings": {
         "foreground": "#c5d2de"
@@ -101,7 +103,8 @@
         "entity.name.type.class",
         "entity.name.type.interface",
         "punctuation.definition.heading.markdown",
-        "entity.name.section.markdown"
+        "entity.name.section.markdown",
+        "entity.other.keyframe-offset.percentage.css"
       ],
       "settings": {
         "foreground": "#e78b96"
@@ -111,10 +114,21 @@
       "name": "Types",
       "scope": [
         "support.type",
-        "entity.name.type"
+        "entity.name.type",
+        "entity.other.attribute-name.class.css",
+        "support.class"
       ],
       "settings": {
         "foreground": "#fcd199"
+      }
+    },
+    {
+      "name": "CSS Constant & Property Values",
+      "scope": [
+        "meta.property-value.css",
+      ],
+      "settings": {
+        "foreground": "#CE9178",
       }
     },
     {
