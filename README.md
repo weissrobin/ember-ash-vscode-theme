@@ -11,6 +11,7 @@ A minimalist dark theme for VS Code inspired by glowing embers and cooling ash.
 ![Screenshot](assets/screenshot.png)
 
 ## Config on screenshot
+```
 "editor.fontFamily": "JetBrains Mono",
 "editor.fontWeight": "normal",
 "editor.fontSize": 13,
@@ -33,3 +34,6 @@ A minimalist dark theme for VS Code inspired by glowing embers and cooling ash.
 "window.commandCenter": false,
 "workbench.activityBar.location": "top",
 "editor.stickyScroll.enabled": false,
+```
+
+if you have a question, suggestion, idea etc..about this theme, you can contact me! :)

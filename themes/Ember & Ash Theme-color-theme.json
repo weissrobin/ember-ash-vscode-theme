@@ -114,7 +114,8 @@
         "entity.name.type.interface",
         "punctuation.definition.heading.markdown",
         "entity.name.section.markdown",
-        "entity.other.keyframe-offset.percentage.css"
+        "entity.other.keyframe-offset.percentage.css",
+        "entity.other.attribute-name.id.css"
       ],
       "settings": {
         "foreground": "#e78b96"
